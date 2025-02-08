@@ -1,3 +1,9 @@
+<details>
+  <summary>Mistral's New Capabilities (Update)</summary>
+  <p>Reviewing the new capabilities of the latest Mistral release, since I last made some experiments several months ago with Mistral Large.</p>
+</details>
+
+
 # Mistral Inference
 <a target="_blank" href="https://colab.research.google.com/github/mistralai/mistral-inference/blob/main/tutorials/getting_started.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
